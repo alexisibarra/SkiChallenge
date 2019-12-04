@@ -1,5 +1,5 @@
 import "babel-polyfill";
 
-test('true equals true', () => {
-    expect(true).toBe(true);
+test("true equals true", () => {
+  expect(true).toBe(true);
 });
